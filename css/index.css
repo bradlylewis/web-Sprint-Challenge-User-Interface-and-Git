@@ -114,7 +114,7 @@ nav {
     width: 48%;
     padding: 0 1%;
     padding-bottom: 20px;  
-    padding-top: 20px;
+    padding-top: 2%;
 }
 
 .middle-content {
@@ -142,6 +142,46 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#box1 {
+    background-color: teal;
+}
+
+#box2 {
+    background-color: gold;
+}
+
+#box3 {
+    background-color: cadetblue;
+}
+
+#box4 {
+    background-color: coral;
+}
+
+#box5 {
+    background-color: crimson;
+}
+
+#box6 {
+    background-color: forestgreen;
+}
+
+#box7 {
+    background-color: darkorchid;
+}
+
+#box8 {
+    background-color: hotpink;
+}
+
+#box9 {
+    background-color: indigo;
+}
+
+#box10 {
+    background-color: dodgerblue;
 }
 
 .bottom-content {
